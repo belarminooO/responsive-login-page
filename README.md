@@ -6,6 +6,8 @@ Interface de autenticação com páginas de início de sessão e registo, pensad
   <img src="./docs/media/preview.png" alt="Pré-visualização da Responsive Login Page" width="900" />
 </a>
 
+---
+
 ## Funcionalidades
 
 - Página de início de sessão.
@@ -13,11 +15,15 @@ Interface de autenticação com páginas de início de sessão e registo, pensad
 - Navegação entre os dois fluxos.
 - Adaptação para ecrãs pequenos.
 
+---
+
 ## O que aprofundei
 
 - Marcação de formulários de início de sessão e registo com foco em clareza visual.
 - Organização de conteúdos em colunas e alinhamento de elementos com CSS.
 - Construção de uma interface responsiva para diferentes tamanhos de ecrã.
+
+---
 
 ## Tecnologias
 
@@ -26,11 +32,29 @@ Interface de autenticação com páginas de início de sessão e registo, pensad
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
 </div>
 
+---
+
 ## Como executar
 
 Abra `signin.html` no navegador. A página de registo está disponível em `signup.html`.
+
+---
 
 ## Nota
 
 Este projeto apresenta apenas a interface; não envia nem armazena dados de utilizadores.
 
+---
+
+## Contacto
+
+<a href="https://www.linkedin.com/in/belarmino-sacate-1b830037b/">
+  <img align="center" alt="LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
+  LinkedIn Profile
+</a>
+<br>
+<br>
+<a href="mailto:belarmino.s.bs@gmail.com">
+  <img align="center" alt="Gmail" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />
+  belarmino.s.bs@gmail.com
+</a>
