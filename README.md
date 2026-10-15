@@ -46,7 +46,7 @@ Este projeto apresenta apenas a interface; não envia nem armazena dados de util
 
 ---
 
-## Contacto
+## Contactos
 
 <a href="https://www.linkedin.com/in/belarmino-sacate-1b830037b/">
   <img align="center" alt="LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
